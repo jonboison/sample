@@ -3,3 +3,5 @@ masterも作成されていない状態
 UTF-8
 
 変更を加える(masterに直接)
+
+変更を加える(feature)
