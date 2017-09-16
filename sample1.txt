@@ -3,3 +3,7 @@ masterも作成されていない状態
 UTF-8
 
 変更を加える(masterに直接)
+
+変更を加える(feature)
+
+変更を加える(featureで2回変更_1回目)
